@@ -1,0 +1,463 @@
+[
+  {
+    "id":1,
+    "gender":"Men",
+    "type":"T-Shirt",
+    "name":"Good Man - Slim Fit T-Shirt",
+    "price":60,
+    "color":"Dark Green",
+    "img":"img/men/s1.jpg"
+  },
+  {
+    "id":2,
+    "gender":"Men",
+    "type":"T-Shirt",
+    "name":"Gap Pocket T-Shirt",
+    "price": 20.99,
+    "color":"Black $ White",
+    "img":"img/men/s2.jpg"
+  },
+  {
+    "id":3,
+    "gender":"Men",
+    "type":"T-Shirt",
+    "name":"Bombas Pima - Cotton Crew T-Shirt",
+    "price": 36,
+    "color":"Grey",
+    "img":"img/men/s3.jpg"
+  },
+  {
+    "id":4,
+    "gender":"Men",
+    "type":"Shorts",
+    "name":"Travis Mathew - Beck Strength Performance",
+    "price": 84.95,
+    "color":"Blue Grey",
+    "img":"img/men/sh1.jpg"
+  },
+  {
+    "id":5,
+    "gender":"Men",
+    "type":"Shorts",
+    "name":"Amfibious Shorts Man",
+    "price": 74.90,
+    "color":"Dark Beige",
+    "img":"img/men/sh2.jpg"
+  },
+  {
+    "id":6,
+    "gender":"Men",
+    "type":"Shorts",
+    "name":"Triple Canyon Mens Shorts",
+    "price":53.99 ,
+    "color":"Grey",
+    "img":"img/men/sh3.jpg"
+  },
+  {
+    "id":7,
+    "gender":"Men",
+    "type":"Pants",
+    "name":"Classic Fit Wrinkle - Resistant Deck Pants",
+    "price": 78,
+    "color":"Khaki Beach",
+    "img":"img/men/p1.jpg"
+  },
+  {
+    "id":8,
+    "gender":"Men",
+    "type":"Pants",
+    "name":"Tommy John - Everyday Tech Pants",
+    "price":148 ,
+    "color":"Dark Blue",
+    "img":"img/men/p2.jpg"
+  },
+  {
+    "id":9,
+    "gender":"Men",
+    "type":"Pants",
+    "name":"Lululemon - Commission Pants",
+    "price": 138,
+    "color":"Black",
+    "img":"img/men/p3.jpg"
+  },
+  {
+    "id":10,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"Casual Linen Dress",
+    "price": 19.15,
+    "color":"Milky White",
+    "img":"img/women/d1.jpg"
+  },
+  {
+    "id":11,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"V-Neck Floral Chiffon Maxi Dress",
+    "price": 43.40,
+    "color":"Light Purple",
+    "img":"img/women/d2.jpg"
+  },
+  {
+    "id":12,
+    "gender":"Women",
+    "type":"Dress",
+    "name":" Aria Floral Cotton Maxi Dress",
+    "price": 69.99,
+    "color":"Off-white",
+    "img":"img/women/d3.jpg"
+  },
+  {
+    "id":13,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"Spring Meadows Olive Green Floral Print Midi Dress",
+    "price": 78,
+    "color":"Olive Green",
+    "img":"img/women/d4.jpg"
+  },
+  {
+    "id":14,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"V-Neck Halter Midi Dress",
+    "price": 35.95,
+    "color":"White",
+    "img":"img/women/d5.jpg"
+  },
+  {
+    "id":15,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"Savana Slinky Midi Dress",
+    "price": 99.99,
+    "color":"Sage Green",
+    "img":"img/women/d6.jpg"
+  },
+  {
+    "id":16,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"Cocktail Midi Dress",
+    "price": 60.55,
+    "color":"Peachy Pink",
+    "img":"img/women/d7.jpg"
+  },
+  {
+    "id":17,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"Timeless Touch Floral Print A-Line Midi Dress",
+    "price": 40.99,
+    "color":"Green",
+    "img":"img/women/d8.jpg"
+  },
+  {
+    "id":18,
+    "gender":"Women",
+    "type":"Dress",
+    "name":"Bodycon Dress",
+    "price": 80.55,
+    "color":"Green",
+    "img":"img/women/d9.jpg"
+  },
+  {
+    "id":19,
+    "gender":"Women",
+    "type":"Jeans",
+    "name":"High Waist Hole Ripped Vintage Jeans",
+    "price": 120.95,
+    "color":"White",
+    "img":"img/women/j1.jpg"
+  },
+  {
+    "id":20,
+    "gender":"Women",
+    "type":"Jeans",
+    "name":"High Waist Ripped Jeans",
+    "price": 75.99,
+    "color":"Mixed Blue",
+    "img":"img/women/j2.jpg"
+  },
+  {
+    "id":21,
+    "gender":"Women",
+    "type":"Jeans",
+    "name":"Simple Vintage Chic High Waist Jeans",
+    "price": 20.99,
+    "color":"Dark Grey",
+    "img":"img/women/j3.jpg"
+  },
+  {
+    "id":22,
+    "gender":"Women",
+    "type":"Jeans",
+    "name":"High Waist Jeans",
+    "price": 80,
+    "color":"Dark Grey",
+    "img":"img/women/j4.jpg"
+  },
+  {
+    "id":23,
+    "gender":"Women",
+    "type":"Jeans",
+    "name":"Simple Korean Straight Jeans",
+    "price": 75,
+    "color":"Blue Grey",
+    "img":"img/women/j5.jpg"
+  },
+  {
+    "id":24,
+    "gender":"Women",
+    "type":"Jeans",
+    "name":"High Waist Slouchy Jeans",
+    "price": 50.99,
+    "color":"Light Blue",
+    "img":"img/women/j6.jpg"
+  },
+  {
+    "id":26,
+    "gender":"Women",
+    "type":"Pants",
+    "name":"New Spring Fashion Mid Waisted Pants",
+    "price": 60,
+    "color":"Beige",
+    "img":"img/women/p1.jpg"
+  },
+  {
+    "id":27,
+    "gender":"Women",
+    "type":"Pants",
+    "name":"Simple Vintage Plaid Long Women Pants",
+    "price": 42.99,
+    "color":"Dark Orange/Beige",
+    "img":"img/women/p2.jpg"
+  },
+  {
+    "id":28,
+    "gender":"Women",
+    "type":"Pants",
+    "name":"Streetwear Cargo Pants",
+    "price": 45.99,
+    "color":"Black",
+    "img":"img/women/p3.jpg"
+  },
+  {
+    "id":29,
+    "gender":"Women",
+    "type":"Pants",
+    "name":"High Waist Dailywear Pants",
+    "price": 55.99,
+    "color":"Grey",
+    "img":"img/women/p4.jpg"
+  },
+  {
+    "id":30,
+    "gender":"Women",
+    "type":"Pants",
+    "name":"Streetwear Women Pants",
+    "price": 60,
+    "color":"White",
+    "img":"img/women/p5.jpg"
+  },
+  {
+    "id":31,
+    "gender":"Women",
+    "type":"Pants",
+    "name":"Elastic Waist Pants",
+    "price": 45.99,
+    "color":"Light Green",
+    "img":"img/women/p6.jpg"
+  },
+  {
+    "id":32,
+    "gender":"Women",
+    "type":"Shirts",
+    "name":"Saiqigui Vintage Blouse",
+    "price": 30.45,
+    "color":"Blue",
+    "img":"img/women/sh1.jpg"
+  },
+  {
+    "id":33,
+    "gender":"Women",
+    "type":"Shirts",
+    "name":"Woman Delice",
+    "price": 35,
+    "color":"Milky White",
+    "img":"img/women/sh2.jpg"
+  },
+  {
+    "id":34,
+    "gender":"Women",
+    "type":"Shirts",
+    "name":"Long Sleeves Woman Shirt",
+    "price": 25.45,
+    "color":"",
+    "img":"img/women/sh3.jpg"
+  },
+  {
+    "id":35,
+    "gender":"Women",
+    "type":"Shirts",
+    "name":"Cloudy Shirt",
+    "price": 25.99,
+    "color":"",
+    "img":"img/women/sh4.jpg"
+  },
+  {
+    "id":36,
+    "gender":"Women",
+    "type":"Shirts",
+    "name":"Doresuwe Shirt",
+    "price": 30.45,
+    "color":"Cocktail Grey",
+    "img":"img/women/sh5.jpg"
+  },
+  {
+    "id":37,
+    "gender":"Women",
+    "type":"Shirts",
+    "name":"Daddy Shirt",
+    "price": 30.45,
+    "color":"Brown",
+    "img":"img/women/sh6.jpg"
+  },
+  {
+    "id":38,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Manu Saturated Suede Ankle Boots",
+    "price": 60.99,
+    "color":"Blue",
+    "img":"img/women/shoe1.jpg"
+  },
+  {
+    "id":39,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Meu Script",
+    "price": 70,
+    "color":"White",
+    "img":"img/women/shoe2.jpg"
+  },
+  {
+    "id":40,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Ankle Boots",
+    "price": 75.99,
+    "color":"Beige/Grey",
+    "img":"img/women/shoe3.jpg"
+  },
+  {
+    "id":41,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Women's Chunky Vulcanize Sneakers",
+    "price": 99.95,
+    "color":"Black",
+    "img":"img/women/shoe4.jpg"
+  },
+  {
+    "id":42,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Autumn Winter Increase Ankle Shoes",
+    "price": 105,
+    "color":"White",
+    "img":"img/women/shoe5.jpg"
+  },
+  {
+    "id":43,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Lace-up Lug Sole Combat Boots",
+    "price": 98.99,
+    "color":"Black",
+    "img":"img/women/shoe6.jpg"
+  },
+  {
+    "id":44,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Japanese Style Vintage Buckle Mary Janes Shoes",
+    "price": 60.99,
+    "color":"Brown",
+    "img":"img/women/shoe7.jpg"
+  },
+  {
+    "id":45,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Corso Como Brune Sandals",
+    "price": 45,
+    "color":"Beige",
+    "img":"img/women/shoe8.jpg"
+  },
+  {
+    "id":46,
+    "gender":"Women",
+    "type":"Shoes",
+    "name":"Bamboo Denim Double Band Lug Sole Flatform Sandal",
+    "price": 55,
+    "color":"Blue",
+    "img":"img/women/shoe9.jpg"
+  },
+  {
+    "id":47,
+    "gender":"Women",
+    "type":"Tops",
+    "name":"Lilicloth V-Neck Casual Top",
+    "price": 25,
+    "color":"White",
+    "img":"img/women/t1.jpg"
+  },
+  {
+    "id":48,
+    "gender":"Women",
+    "type":"Tops",
+    "name":"Knitted Long Sleeves Top",
+    "price": 30,
+    "color":"White",
+    "img":"img/women/t2.jpg"
+  },
+  {
+    "id":49,
+    "gender":"Women",
+    "type":"Tops",
+    "name":"Tumblr Top",
+    "price": 35,
+    "color":"",
+    "img":"img/women/t3.jpg"
+  },
+  {
+    "id":50,
+    "gender":"Women",
+    "type":"Tops",
+    "name":"Lolita Top",
+    "price": 40,
+    "color":"White",
+    "img":"img/women/t4.jpg"
+  },
+  
+  {
+    "id":51,
+    "gender":"Women",
+    "type":"Tops",
+    "name":"Depop Top",
+    "price": 55,
+    "color":"Black",
+    "img":"img/women/t5.jpg"
+  },
+  {
+    "id":52,
+    "gender":"Women",
+    "type":"Tops",
+    "name":"Diamond Sling Top",
+    "price": 60.99,
+    "color":"45",
+    "img":"img/women/t6.jpg"
+  }
+ 
+]
